@@ -1,0 +1,25 @@
+a) -5.0
+
+b) 98.0
+
+c) 0
+
+d) 9.0
+
+e) False
+
+f) True
+
+g) True
+
+h) True
+
+i) True
+
+j) 0.5
+
+k) True
+
+l) True
+
+m) True
